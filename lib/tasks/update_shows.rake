@@ -1,4 +1,5 @@
 namespace :list do
+
 desc "update the concert list"
 
   task :update_shows => :environment do
